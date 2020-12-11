@@ -42,6 +42,7 @@ tar \
 texinfo \
 unzip \
 wget \
+xmlstarlet \
 yasm \
 zlib1g \
 zlib1g-dev
