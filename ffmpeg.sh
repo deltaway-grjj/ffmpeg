@@ -33,6 +33,7 @@ libasound2-dev \
 make \
 maven \
 nasm \
+openjdk-8-jdk \
 patch \
 perl \
 pkg-config \
