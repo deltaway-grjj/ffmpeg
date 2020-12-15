@@ -27,6 +27,7 @@ libgtk-3-dev \
 libgtk2.0-dev \
 libjpeg-dev \
 libpng-dev \
+libprotobuf-dev \
 libsdl2-dev \
 libswscale-dev \
 libtiff-dev \
@@ -48,6 +49,7 @@ openjdk-8-jdk \
 patch \
 perl \
 pkg-config \
+protobuf-compiler \
 python \
 swig \
 tar \
