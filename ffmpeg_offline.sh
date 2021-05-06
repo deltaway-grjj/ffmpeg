@@ -9,3 +9,5 @@ cd ffmpeg/javacpp-presets/
 #JAVA_HOME="/usr/lib/jvm/java-11-openjdk-armhf/bin/java"
 export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")
 mvn install -Djavacpp.platform=linux-armhf -Dmaven.javadoc.skip=true
+cd ffmpeg/target/
+ls -l
